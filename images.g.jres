@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAiIiIiIiIiIiIiIiIiIiIiIhH/L/8i/yIiEf8vL/LyIiIR/y//L/IiIhERISIiIiIiEREh8v/yIiIiIiLy8v8iIiIiIiIiIiIiEf8v8v//IiIR/y8iIvIiIhH/L/L//yIiEREhIiIiIiIRESHy//IiIiIiIvLy/yIiIiIiIiIiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sus"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
